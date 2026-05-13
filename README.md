@@ -1,0 +1,1 @@
+![Tampilan Aplikasi](./assets/foto.png)
